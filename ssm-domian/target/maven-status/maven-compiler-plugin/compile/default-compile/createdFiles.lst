@@ -1,0 +1,7 @@
+com\gdpi\ssm\domain\Orders.class
+com\gdpi\ssm\domain\Traveller.class
+com\gdpi\ssm\domain\Member.class
+com\gdpi\ssm\domain\UserInfo.class
+com\gdpi\ssm\domain\Product.class
+com\gdpi\ssm\domain\Permission.class
+com\gdpi\ssm\domain\Role.class

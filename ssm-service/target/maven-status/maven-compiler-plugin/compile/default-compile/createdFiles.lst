@@ -1,0 +1,8 @@
+com\gdpi\ssm\service\impl\UserServiceImpl.class
+com\gdpi\ssm\service\IUserService.class
+com\gdpi\ssm\service\impl\GlobalServiceImpl.class
+com\gdpi\ssm\service\IOrdersService.class
+com\gdpi\ssm\service\impl\OrdersServiceImpl.class
+com\gdpi\ssm\service\IProductService.class
+com\gdpi\ssm\service\impl\ProductServiceImpl.class
+com\gdpi\ssm\service\IGlobalService.class

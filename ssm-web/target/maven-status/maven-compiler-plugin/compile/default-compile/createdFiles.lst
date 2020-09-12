@@ -1,0 +1,5 @@
+com\gdpi\ssm\controller\OrdersController.class
+com\gdpi\ssm\controller\GlobalController.class
+com\gdpi\ssm\global\LoginInterceptor.class
+com\gdpi\ssm\controller\UserController.class
+com\gdpi\ssm\controller\ProductController.class
